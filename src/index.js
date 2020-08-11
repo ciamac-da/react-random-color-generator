@@ -48,7 +48,7 @@ class App extends Component {
                 <Card color={color}>
                     <input
                         type={'button'}
-                        value={'Random Color'}
+                        value={'click to change the background Color'}
                         onClick={this.randomizeColor}
                     />
                 </Card>
