@@ -1,1 +1,0 @@
-![](readmeImage/color.jpg)

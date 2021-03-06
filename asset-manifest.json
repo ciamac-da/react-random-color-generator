@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-random-color-generator/static/js/main.e4d5a630.chunk.js",
+    "main.js.map": "/react-random-color-generator/static/js/main.e4d5a630.chunk.js.map",
+    "runtime-main.js": "/react-random-color-generator/static/js/runtime-main.7a640a00.js",
+    "runtime-main.js.map": "/react-random-color-generator/static/js/runtime-main.7a640a00.js.map",
+    "static/js/2.f65cb81e.chunk.js": "/react-random-color-generator/static/js/2.f65cb81e.chunk.js",
+    "static/js/2.f65cb81e.chunk.js.map": "/react-random-color-generator/static/js/2.f65cb81e.chunk.js.map",
+    "index.html": "/react-random-color-generator/index.html",
+    "static/js/2.f65cb81e.chunk.js.LICENSE.txt": "/react-random-color-generator/static/js/2.f65cb81e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a640a00.js",
+    "static/js/2.f65cb81e.chunk.js",
+    "static/js/main.e4d5a630.chunk.js"
+  ]
+}
